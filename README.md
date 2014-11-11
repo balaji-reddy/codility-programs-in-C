@@ -1,4 +1,4 @@
-Frogjump
+Codility programmer programs 
 ========
 
-codility-Frogjump, in C
+Few of the programs written in C
